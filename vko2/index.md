@@ -1,7 +1,7 @@
 ## Pilvipalvelut web kehityksessä kurssin tehtävät s2024
 
 Täältä löydät viikkotehtävät:  
-- [Viikko 1](index.html)  
+- [Viikko 1](https://niinaemil1a.github.io/pwk/vko1/index.html)  
 - [Viikko 2](viikko2.md)  
 - Viikko 3 
 - Viikko 4

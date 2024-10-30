@@ -1,6 +1,7 @@
 ## Pilvipalvelut web kehityksessä kurssin tehtävät s2024
 
-[Viikko 1](viikko1.md)  
+Täältä löydät viikkotehtävät:  
+[Viikko 1](vko1/index.html)  
 [Viikko 2](viikko2.md)  
 [Viikko 3](viikko3.md)  
 [Viikko 4](viikko4.md)  

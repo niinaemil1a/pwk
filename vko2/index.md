@@ -1,5 +1,3 @@
-@import "{{ site.theme }}";
-
 ## Pilvipalvelut web kehityksessä kurssin tehtävät s2024
 
 Täältä löydät viikkotehtävät:  

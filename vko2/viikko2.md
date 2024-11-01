@@ -1,6 +1,6 @@
 ## Viikko 2 - GitHub Actions
 
-#Sivuston automatisointi käyttäen GitHub Actions toimintoja
+# Sivuston automatisointi käyttäen GitHub Actions toimintoja
 
 GitHub Actions on GitHubin oma CI/CD (Continuous Integration/Continuous Delivery) työkalu, jonka avulla voidaan esimerkiksi ajaa automaattisesti sovellustestejä ja päivittää sovellusta automaattisesti eri ympäristöihin. CI/CD putkiston rakentamiseen on erilaisia työkaluja GitHub Actionsin lisäksi, kuten Docker tai Jenkins. 
 
